@@ -16,6 +16,7 @@ O objetivo é aprender os conceitos fundamentais de gerenciamento de armazenamen
 2. **Conexão via SSH:**
    - Usar uma chave privada para conectar-se à instância.
    **Imagem: Conexão via SSH**
+    ![Configuração da Instância EC2](./images/part-1.png)
     ![Conexão via SSH](./images/part-2.png)
 
 3. **Gerenciamento de Volume EBS:**
