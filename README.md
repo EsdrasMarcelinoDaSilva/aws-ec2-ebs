@@ -11,7 +11,7 @@ O objetivo é aprender os conceitos fundamentais de gerenciamento de armazenamen
 1. **Configuração da Instância EC2:**
    - Criar uma instância EC2 com Amazon Linux 2 via Console da AWS.
    **Imagem: Configuração da Instância EC2**
-   ![Configuração da Instância EC2](./images/part-1.png)
+   ![Configuração da Instância EC2](./images/ec2.png)
 
 2. **Conexão via SSH:**
    - Usar uma chave privada para conectar-se à instância.
